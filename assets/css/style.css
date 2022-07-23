@@ -1,0 +1,34 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: "mouse-500", Arial, Helvetica, sans-serif; }
+
+strong {
+  font-family: "mouse-500", Arial, Helvetica, sans-serif; }
+
+body {
+  background-color: #5e5b78 !important;
+  font-family: "mouse-300", Arial, Helvetica, sans-serif;
+  color: #6a6A6A; }
+.profile-box {
+  width: 1080px;
+  margin: 30px auto;
+   background-color: #FFF; }
+   .profile-box .leftgh {
+    padding: 0px;
+    background-color: #d9e2e6; }
+    .profile-box .leftgh .name-info {
+      padding: 20px; }
+      .profile-box .leftgh .name-info h1 {
+        margin-bottom: 20px; }
+    .profile-box .leftgh .image-box img {
+      width: 100%; }
+    .profile-box .leftgh .profile {
+      padding: 20px; }
+      .profile-box .leftgh .profile p {
+        text-indent: 20px; }
+  .profile-box .rit-data {
+    padding: 20px 30px; }
+         .profile-box .rit-data ul li span {
+        float: right; }
+     
+
+
